@@ -23,8 +23,8 @@ Take a look at the live version here  https://abeeb1000.github.io/Upage/.
 Git and GitHub
 
 ## Usage and properties
--view only on desktops and laptops
--not  Responsive
+- view only on desktops and laptops
+- not  Responsive
 
 ## Authors
 Abeeb Ridwan
