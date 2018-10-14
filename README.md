@@ -2,22 +2,22 @@
 portfolio showcasing my frontend development projects
 
 ## Getting Started
-fork and clone this repo.
-run it on your local server
-visit it on your web browser
+- fork and clone this repo.
+- run it on your local server
+- visit it on your web browser
 
 ## Prerequisites
-local server
-web browser e.g. chrome
+- local server
+- web browser e.g. chrome
 
 ## Deployment
 Take a look at the live version here .....
 
 ## Built With
-HTML
-CSS
-JAVASCRIPT
-Google images
+- HTML
+- CSS
+- AVASCRIPT
+- Google images
 
 ## Versioning
 Git and GitHub
