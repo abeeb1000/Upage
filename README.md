@@ -22,8 +22,8 @@ Google images
 ## Versioning
 Git and GitHub
 
-### Authors
+## Authors
 Abeeb Ridwan
 
-### License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
