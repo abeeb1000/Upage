@@ -1,29 +1,29 @@
-#Upage
+# Upage
 portfolio showcasing my frontend development projects
 
-##Getting Started
+## Getting Started
 fork and clone this repo.
 run it on your local server
 visit it on your web browser
 
-##Prerequisites
+## Prerequisites
 local server
-web browser e.g. chrome 
+web browser e.g. chrome
 
-Deployment
+## Deployment
 Take a look at the live version here .....
 
-##Built With
+## Built With
 HTML
 CSS
 JAVASCRIPT
 Google images
 
-##Versioning
+## Versioning
 Git and GitHub
 
-###Authors
+### Authors
 Abeeb Ridwan
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details
