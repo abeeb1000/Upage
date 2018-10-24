@@ -16,7 +16,7 @@ Take a look at the live version here  https://abeeb1000.github.io/Upage/.
 ## Built With
 - HTML
 - CSS
-- AVASCRIPT
+- JAVASCRIPT
 - Google images
 
 ## Versioning
