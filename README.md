@@ -11,7 +11,7 @@ portfolio showcasing my frontend development projects
 - web browser e.g. chrome
 
 ## Deployment
-Take a look at the live version (here.......)[https://abeeb1000.github.io/Upage/]
+Take a look at the live version [here.......](https://abeeb1000.github.io/Upage/)
 
 ## Built With
 - HTML
