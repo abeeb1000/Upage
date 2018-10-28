@@ -23,11 +23,11 @@ Take a look at the live version [here.......](https://abeeb1000.github.io/Upage/
   Git
 
 ## Usage and properties
-- view only on desktops and laptops
+- view on any device
 - Responsive
 
 ## Authors
 Abeeb Ridwan
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
